@@ -13,5 +13,15 @@ private void method2() {
 private void method3() {
 System.out.println("Icecream");
 }
-	}
 
+private void method4() {
+System.out.println("Candy");
+	}
+private void method5() {
+System.out.println("Chocolates");
+}
+private void method6() {
+System.out.println("Nuts");
+}
+
+}
